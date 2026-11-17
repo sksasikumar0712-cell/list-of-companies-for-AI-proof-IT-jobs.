@@ -10,8 +10,10 @@ Ten featured companies: Agnikul Cosmos, The ePlane Company, Data Patterns, Boein
 - Search across company names, industries, locations, technologies and skills
 - Industry chip filters and role dropdown
 - Company-specific official careers pages, including Chennai-filtered links when available
-- Official company LinkedIn profile
-- `Find recruiters` opens a **LinkedIn people search** with company + recruiter/HR + Chennai keywords; it does **not** scrape, identify, or guarantee any HR employee
+- Two actions per company: **Careers** (official employer portal) and **HR LinkedIn** (company-specific people search)
+- **HR LinkedIn** searches for recruiter/HR profiles using the company name and Chennai; it does **not** scrape, identify, or guarantee any HR employee
+- Compact sticky directory title and search bar on mobile and desktop; industry and role filters scroll normally
+- Header LinkedIn icon and fixed personal LinkedIn follow link
 - Responsive cards for mobile and desktop
 - Permanent **Part 2 Coming Soon** teaser for later releases
 
